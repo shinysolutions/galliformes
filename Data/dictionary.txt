@@ -1,0 +1,69 @@
+name_c,name_e
+绿脚山鹧鸪,Green-legged Hill Partridge
+绿孔雀,Green Peafowl
+绿尾虹雉,Chinese Monal Pheasant
+灰腹角雉,Blyth's Tragopan
+灰胸竹鸡,Chinese Bamboo Partridge
+灰孔雀雉,Grey Peacock Pheasant
+红腹锦鸡,Golden Pheasant
+红腹角雉,Temminck's Tragopan
+红胸角雉,Satyr Tragopan
+红胸山鹧鸪,Red-breasted Hill Partridge
+红喉雉鹑,Red-throad Pheasant
+红喉山鹧鸪,Rufous-throated Hill Partridge
+白颈长尾雉,Elliot's Pheasant 　
+白额山鹧鸪,White-browed Hill Partridge
+白马鸡,White Eared Pheasant
+白腹锦鸡,Lady Amherst's
+白鹇,Silver Pheasant
+白尾梢虹雉,Sclater's Monal Pheasant
+白冠长尾雉,Reeves's Pheasant
+石鸡,Chukor Partridge
+环颈山鹧鸪,Common Hill Partridge
+藏雪鸡,Tibetan  Snow Cock
+藏马鸡,Tibetan Eared Pheasant
+血雉,Blood Pheasant
+蓝马鸡,Blue Eared Pheasant
+蓝鹇,Taiwan Blue Pheasant
+蓝胸鹑,Blue-breasted Quail
+雉鸡,Common Pheasant
+雪鹑,Snow Patridge
+褐马鸡,Brown Eared Pheasant
+褐胸山鹧鸪,Brown-breasted Hill Partridge
+西鹌鹑,Common Quail
+高原山鹑,Tibetan Partridge
+黑琴鸡,Black Grouse
+黑颈长尾雉,Mrs. Hume's Pheasant
+黑长尾雉,Mikado Pheasant
+黑鹇,Kalij Pheasant
+黑嘴松鸡,Black-billed Capercaillie
+黄腹角雉,Cabot's Tragopan
+黄喉雉鹑,Yellow-throad Pheasant
+鹌鹑,Japanese Quail
+花尾榛鸡,Hazel Grouse
+斑翅山鹑,Daurian Partridge
+斑尾榛鸡,Chinese Hazel Grouse
+中华鹧鸪,Chinese Francolin
+棕胸竹鸡,Bamboo Partridge
+棕尾虹雉,Himalayan Monal Pheasant
+海南孔雀雉,Hainan Peacock Pheasant
+海南山鹧鸪,Hainan Hill Partridge
+暗腹雪鸡,Himalayan Snow Cock
+柳雷鸟,Willow Ptarmigan
+勺鸡,Koklass Pheasant
+四川山鹧鸪,Sichuan Partridge
+大石鸡,Rusty-necklaced Partridge
+岩雷鸟,Rock Ptarmigan
+原鸡,Red Jungle Fowl
+物种：,Species:
+最小凸多边形,MCP Percent
+核心区域,Kernel Level
+鸡形目：,Galliformes
+鸡形目,Galliformes
+目：,Order:
+科：,Family:
+属：,Genus:
+种：,Species:
+地图,Normal
+卫星,Satellite
+地形,Terrain
